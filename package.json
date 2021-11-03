@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.2",
-    "validator": "^13.1.1"
+    "validator": "^13.7.0"
   }
 }
